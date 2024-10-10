@@ -15,6 +15,10 @@ JavaScript (ES6): To handle conversion logic, API requests, and dynamic updates.
 FreeCurrencyAPI: To fetch live exchange rates.
 FlagsAPI: To display flags for the selected currencies.
 
+📸 Preview
+![image](https://github.com/user-attachments/assets/1170f0f7-a227-4630-875a-f573766e5d91)
+
+
 💡 How It Works
 Enter the amount to convert.
 Select the "From" and "To" currencies from the dropdowns.
